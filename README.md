@@ -1,13 +1,13 @@
-﻿<h1>Projeto Semana Spring React DevSuperior</h1> 
+﻿<h1>Spring React DevSuperior Week</h1> 
 
 ## Project description
 
 <p align="justify">
-    Projeto desenvolvido na Semana Sprinf React da DevSuperior.
+   Project developed at Spring React DevSuperior Week.
 </p>
 
 ## Languages used :books:
 
 - [Java]
 
-Copyright :copyright: 2022 - Projeto Semana Spring React DevSuperior
+Copyright :copyright: 2022 - Spring React DevSuperior Week
